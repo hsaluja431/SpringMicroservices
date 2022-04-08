@@ -1,0 +1,5 @@
+package com.eazybytes.helloworldservices;
+
+public class HelloWorldRestController {
+
+}
